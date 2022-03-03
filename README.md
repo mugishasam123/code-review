@@ -17,7 +17,7 @@
 Additional description about the project and its features.
 ## Built With
 
-- Major languages (JavaScript)
+- Major languages (Html5 and Css3)
 - Technologies/tools used 
   
   ``` bash
